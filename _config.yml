@@ -1,0 +1,14 @@
+layout_spectrum: 0.3944679191336036
+typography_spectrum: 0.18777843727730215
+color:
+  brandStrength: 0.6856143432669342
+  lightness: 0.5622754325158894
+  saturation: 0.9368751691654325
+  rhythmicContrast: 0.9999355098698288
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: correlio
